@@ -1,4 +1,4 @@
 #!/bin/bash
-cd /tmp/CodeDeployExample
+cd /tmp/deploy/
 
-echo "The Evennia ApplicationStart deployment lifecycle event successfully completed." > application-start.txt
+echo "The Evennia ApplicationStart deployment lifecycle event successfully completed." > /tmp/deploy/application-start.txt
